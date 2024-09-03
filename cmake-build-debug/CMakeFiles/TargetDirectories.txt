@@ -1,0 +1,3 @@
+/Users/andrestorres/Documents/ITESM/Estructuras/Semana 3/mergesort/cmake-build-debug/CMakeFiles/mergesort.dir
+/Users/andrestorres/Documents/ITESM/Estructuras/Semana 3/mergesort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrestorres/Documents/ITESM/Estructuras/Semana 3/mergesort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

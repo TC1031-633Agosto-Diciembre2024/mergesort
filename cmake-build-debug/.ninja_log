@@ -1,0 +1,7 @@
+# ninja log v6
+1	245	1725382218952069029	CMakeFiles/mergesort.dir/main.cpp.o	aef3ab4ba8c195cf
+247	273	1725382219198130782	mergesort	b5d030ed04df0ee5
+4	222	1725382252300854661	CMakeFiles/mergesort.dir/main.cpp.o	aef3ab4ba8c195cf
+222	250	1725382252518518856	mergesort	b5d030ed04df0ee5
+4	231	1725382308731084153	CMakeFiles/mergesort.dir/main.cpp.o	aef3ab4ba8c195cf
+231	261	1725382308957704158	mergesort	b5d030ed04df0ee5
